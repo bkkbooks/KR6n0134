@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6n0134/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 八識規矩頌解
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X55/X55n0892.xml
+    old_id: X55n0892
+hash: sha256:c66e1c61cb28ff5699855f05e9e3c53f3f0081069edc39bfb304ac71eb4926d0

@@ -1,0 +1,92 @@
+canonical_identifier: bkk:krp/KR6n0134/v1
+canonical_location: https://kanripo.org/bkk/KR6n0134/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 八識規矩頌解
+  identifiers:
+    alt_id:
+    - X55n0892
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X55/X55n0892.xml
+    old_id: X55n0892
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6n0134_000.yaml, hash: 'sha256:c66e1c61cb28ff5699855f05e9e3c53f3f0081069edc39bfb304ac71eb4926d0'}
+  - {seq: 1, filename: KR6n0134_001.yaml, hash: 'sha256:833914436b70db83ec9ce1dd48e7d5800433dfe4063f2a28e69c8c3f7cb840ea'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6n0134_001.markers.yaml, hash: 'sha256:05b53f57a4f0641e68533a9e352a23cc5d792e49949eaca940f45e38d8664525'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6n0134_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 3930
+  label: 八識規矩解
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0134_X_001-mulu-1
+    span:
+    - body
+    - 4
+    - 4
+  label: 前五識
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0134_X_001-mulu-2
+    span:
+    - body
+    - 1036
+    - 1036
+  label: 第六識
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0134_X_001-mulu-3
+    span:
+    - body
+    - 1662
+    - 1662
+  label: 第七識
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0134_X_001-mulu-4
+    span:
+    - body
+    - 2269
+    - 2269
+  label: 第八識
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0134_X_001-mulu-5
+    span:
+    - body
+    - 2702
+    - 2702
+  label: 唯識略解
+  type: mulu
+  level: 1
+hash: sha256:31fc9c09037f92e1cd56d3c8e195e4fe3cf089fde4a96e69c1937ade0fd25f48
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
